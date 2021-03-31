@@ -5,12 +5,12 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Judges.Data.Models
+namespace Teams.Data.Models
 {
     /// <summary>
     /// Команда
     /// </summary>
-    public class JudgeDto
+    public class TeamDto
     {
         /// <summary>
         /// Идентификатор. Уникальный ключ.
